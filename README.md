@@ -7,4 +7,4 @@ This project is part of Udacity Data Analyst Nano Degree
 - Assessing and cleaning data.
 - Analyzing and visualizing data insights, using different methods including Seaborn, Matplotlib, then reporting conclusions.
 
-<i> For more info check [a relative link](wrangle-act.pdf)</i>
+<i> For more info check [wrangle_report.pdf](wrangle_report.pdf)</i>
